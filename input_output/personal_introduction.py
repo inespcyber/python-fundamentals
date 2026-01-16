@@ -10,11 +10,6 @@ Concepts Practised:
 - String formatting with f-strings
 - Printing output
 
-Possible Improvements:
-- Validate that the age input is numeric.
-- Handle empty inputs gracefully.
-- Convert age to integer for potential further use.
-
 Note:
 This script is created for educational purposes to practise Python fundamentals.
 """
