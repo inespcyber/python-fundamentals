@@ -19,6 +19,7 @@ This script is created for educational purposes to practise Python fundamentals.
 side1 = float(input("Enter the length of the first side of a triangle: "))
 side2 = float(input("Enter the length of the second side: "))
 side3 = float(input("Enter the length of the third side: "))
+
 # Check if the sides can form a triangle and classify it
 if side1 + side2 > side3 and side1 + side3 > side2 and side2 + side3 > side1:
     if side1 == side2 == side3:
