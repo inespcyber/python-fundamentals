@@ -18,10 +18,13 @@ This script is created for educational purposes to practise Python fundamentals.
 # Ask the user for weight and height
 weight = float(input("Enter your weight (kg): "))
 height = float(input("Enter your height (m): "))
+
 # Calculate BMI
 bmi = weight / (height * height)
+
 # Print BMI with one decimal point
 print(f"BMI: {bmi:.1f}")
+
 # Classify BMI according to standard ranges and print the classification
 if bmi < 18.5:
     print("Underweight")
