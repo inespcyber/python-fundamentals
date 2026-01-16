@@ -13,7 +13,6 @@ Concepts Practised:
 Note:
 This script is created for educational purposes to practise Python fundamentals.
 """
-
 # Ask for user name
 name = input("What is your name? ")
 
