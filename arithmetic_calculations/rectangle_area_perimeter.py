@@ -17,9 +17,11 @@ This script is created for educational purposes to practise Python fundamentals.
 # Ask the user to enter rectangle dimensions
 width = float(input("Enter the width of the rectangle in meters: "))
 height = float(input("Enter the height of the rectangle in meters: "))
+
 # Calculate area and perimeter
 area = width * height
 perimeter = 2 * (width + height)
+
 # Print the results
 print("Rectangle area:", area, "m²")
 print("Rectangle perimeter:", perimeter, "m")
