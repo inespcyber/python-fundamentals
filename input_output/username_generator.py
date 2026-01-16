@@ -1,5 +1,6 @@
 """
-Title: Username Generator
+Title: 
+Username Generator
 
 Objective:
 Ask the user for first name, last name, and birth year, then create a lowercase username.
