@@ -17,6 +17,7 @@ This script is created for educational purposes to practise Python fundamentals.
 """
 # Ask the user to enter an integer
 number = int(input("Enter an integer: "))
+
 # Check if the number is even or odd and print the result
 if number % 2 == 0:
     print("The number is even.")
