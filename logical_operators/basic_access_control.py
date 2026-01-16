@@ -16,6 +16,7 @@ This script is created for educational purposes to practise Python fundamentals.
 """
 # Ask the user to enter a username
 user = input("Enter the username: ")
+
 # Check if the username is "admin" or "supervisor" and print the result
 if user == "admin" or user == "supervisor":
     print("Access granted.")
