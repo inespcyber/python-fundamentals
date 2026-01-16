@@ -18,7 +18,9 @@ This script is created for educational purposes to practise Python fundamentals.
 a = float(input("Enter a first number: "))
 b = float(input("Enter a second number: "))
 c = float(input("Enter a third number: "))
+
 # Calculate the average
 average=(a+b+c) / 3
+
 # Print the result
 print (f"The average of these 3 numbers is {average}")
