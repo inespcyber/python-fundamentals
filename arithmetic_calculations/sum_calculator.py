@@ -17,7 +17,9 @@ This script is created for educational purposes to practise Python fundamentals.
 # Ask the user to enter two integers
 a=int(input("Enter a number: "))
 b=int(input("Enter another number: "))
+
 # Calculate the sum
 c=a+b
+
 # Print the result
 print(c)
