@@ -1,5 +1,6 @@
 """
-Title: Sum Calculator
+Title: 
+Sum Calculator
 
 Objective:
 Ask the user to enter two integers and display their sum.
