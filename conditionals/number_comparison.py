@@ -17,6 +17,7 @@ This script is created for educational purposes to practise Python fundamentals.
 # Ask the user for two numbers
 number1 = float(input("Enter the first number: "))
 number2 = float(input("Enter the second number: "))
+
 # Compare both numbers to determine the greater one or equality and print the result
 if number1 > number2:
     print("The first number is greater.")
