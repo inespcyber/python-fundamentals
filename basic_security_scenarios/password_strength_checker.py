@@ -24,8 +24,8 @@ password = input("Enter your password: ")
 has_number = False
 
 # Check each character in the password to see if it is a digit
-for caracter in password:
-    if caracter.isdigit():
+for character in password:
+    if character.isdigit():
         has_number = True
 
 # Validate the password based on length and presence of a number
