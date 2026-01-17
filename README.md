@@ -10,12 +10,20 @@ scenarios inspired by cybersecurity contexts.
 
 ## Topics Covered
 - Python syntax and basic data types
-- User input and output
+- User input and output (`input`, `print`)
+- String manipulation and methods (`len()`, `in`, `isdigit()`, `.upper()`)
 - Arithmetic operations
 - Conditional statements (`if`, `elif`, `else`)
 - Logical operators (`and`, `or`)
 - Loops (`for`, `while`)
+- Boolean variables and flags (`True` / `False`)
+- Counters and state tracking (e.g., login attempts, IP blocked)
 - Simple validation and decision-making logic
+- Basic security concepts:
+    - Password strength checking
+    - Limiting login attempts (brute force prevention)
+    - IP-based access blocking
+    - Detecting suspicious input (defensive programming / SQL injection awareness)
 
 ---
 
@@ -23,14 +31,12 @@ scenarios inspired by cybersecurity contexts.
 
 | Folder | Description |
 |--------|-------------|
-| [`input_output/`](https://github.com/inespcyber/python-fundamentals/tree/main/input_output) | Basic interaction with a user using input and output operations. |
-| [`arithmetic_calculations/`](https://github.com/inespcyber/python-fundamentals/tree/main/arithmetic_calculations) | Scripts focused on numeric operations and calculations. |
-| [`conditionals/`](https://github.com/inespcyber/python-fundamentals/tree/main/conditionals) | Decision-making logic using conditional statements. |
-| [`logical_operators/`](https://github.com/inespcyber/python-fundamentals/tree/main/logical_operators/) | Use of logical operators to combine multiple conditions. |
-| [`loops/`](https://github.com/inespcyber/python-fundamentals/tree/main/loops) | Iteration using `for` and `while`. |
-| [`basic_security_scenarios/`](https://github.com/inespcyber/python-fundamentals/tree/main/basic_security_scenarios) | Introductory security-inspired scenarios used to practise Python logic. |
-
-
+| [`input_output/`](https://github.com/inespcyber/python-fundamentals/tree/main/input_output) | Basic user interaction with `input` and `print`.  |
+| [`arithmetic_calculations/`](https://github.com/inespcyber/python-fundamentals/tree/main/arithmetic_calculations) | Numeric operations and calculations.   |
+| [`conditionals/`](https://github.com/inespcyber/python-fundamentals/tree/main/conditionals) | Decision-making using `if`, `elif`, `else` statements.      |
+| [`logical_operators/`](https://github.com/inespcyber/python-fundamentals/tree/main/logical_operators/) | Combining conditions using `and` / `or`. |
+| [`loops/`](https://github.com/inespcyber/python-fundamentals/tree/main/loops) | Iteration using `for` and `while` loops, including `break`. |
+| [`basic_security_scenarios/`](https://github.com/inespcyber/python-fundamentals/tree/main/basic_security_scenarios) | Introductory security exercises like password checks, login limits, IP blocking, and input validation. |
 
 ---
 
